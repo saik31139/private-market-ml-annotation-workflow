@@ -1,0 +1,6 @@
+{
+  "Fintech": ["Payments", "Wealth Management", "Lending"],
+  "HealthTech": ["Telemedicine", "EHR", "Diagnostics"],
+  "AgriTech": ["Supply Chain", "IoT Monitoring", "Crop Analytics"]
+}
+
